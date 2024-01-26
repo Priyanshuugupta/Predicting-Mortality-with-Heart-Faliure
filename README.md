@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/heart-failure-prediction.
+   git clone https://github.com/Priyanshuugupta/Predicting Mortality with Heart Faliure.
    
 Usage
 The project is structured as follows:
